@@ -18,7 +18,7 @@ This project aims to predict the sale price of houses in Ames, Iowa, based on a 
 
 ## Business Understanding
 ### Problem Statements
-- Based on the background above, here are the detailed problems that can be solved in this project:
+Based on the background above, here are the detailed problems that can be solved in this project:
 
 - Among the available features, which ones are most influential in predicting house property prices?
 
